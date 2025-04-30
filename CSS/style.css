@@ -14,7 +14,7 @@ h1 {
 p {
   color: white;
   background-color: black;
-  border: 5px red;
+  border: 5px rgb(0, 94, 255);
   border-style: dashed;
   padding: 30px;
   line-height: 30px;
